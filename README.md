@@ -8,5 +8,8 @@
 
 Wersje
 -------------------
+0.0.2a
+- Updater.
+
 0.0.1a
 - Podstawowa wersja.
