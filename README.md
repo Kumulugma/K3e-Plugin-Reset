@@ -1,15 +1,12 @@
 <p align="center">
     <a href="https://k3e.pl" target="_blank">
-        <img src="http://k3e.pl/images/icons/k3e/100x100.png" height="100px">
+        <img src="https://k3e.pl/wp-content/uploads/2022/07/logo-pasek.png" height="80px">
     </a>
-    <h1 align="center">Podstawowa do kasowania konfiguracji K3e-Plugin</h1>
-    <br>
 </p>
 
-Wersje
--------------------
-0.0.2a
-- Updater.
+# K3e - Wtyczka do kasowania konfiguracji K3e-Plugin
 
-0.0.1a
-- Podstawowa wersja.
+------------------
+...
+------------------
+[Wersje](https://k3e.pl/k3eplugins/k3e-plugin-reset/)
